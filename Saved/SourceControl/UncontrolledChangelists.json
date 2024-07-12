@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanomamat.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/skinMat.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanomaDECAL.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/removeImage.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/removeImageBackground.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanomaNoBackgroundDECALTEST.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/dynamicSkinMat.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/Untitled.umap",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/adjusted_skin_texture_new.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanoma.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanoma5496.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanoma_5341-removebg-preview.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanomapbr_diffuseOriginal.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanomapbr_height.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/melanomapbr_normal.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/NewMaterial.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/realistichand.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/skin_0001_color_1k.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/skin_0001_height_1k.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/skin_0001_normal_directx_1k.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/skin_0001_normal_opengl_1k.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/skin_0001_roughness_1k.uasset",
+				"C:/Users/tf2Lu/OneDrive/Documents/Unreal Projects/text_to_texture/Content/updated_skin_texture.uasset"
+			]
+		}
+	]
+}
